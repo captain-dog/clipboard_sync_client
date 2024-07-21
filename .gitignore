@@ -1,0 +1,13 @@
+/.idea/
+.venv/
+__pycache__/
+.git/
+.mypy_cache/
+.pytest_cache/
+.vscode/
+/.env
+.coverage
+junit-report.xml
+a.json
+.run/
+tds_challenge.html
